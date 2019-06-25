@@ -1,0 +1,10 @@
+node_modules/
+yarn-error.log
+.eslintrc
+.yarn-error.log
+npm-debug.log
+.DS_Store
+.env
+.vscode/
+client/public/bundle.js
+package-lock.json
