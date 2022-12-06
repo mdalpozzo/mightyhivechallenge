@@ -29,7 +29,7 @@
     "mongoose": "^5.3.0",
     "path": "^0.12.7",
     "prop-types": "^15.6.2",
-    "qs": "^6.5.2",
+    "qs": "^6.6.1",
     "react": "^16.3.0",
     "react-chrome-redux": "^2.0.0-alpha.4",
     "react-dom": "^16.3.0",
