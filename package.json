@@ -34,7 +34,7 @@
     "classnames": "^2.2.6",
     "concurrently": "^4.0.1",
     "css-loader": "^0.28.11",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "file-loader": "^2.0.0",
     "lodash": "^4.17.11",
     "mongodb": "^3.0.5",
